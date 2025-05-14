@@ -1,90 +1,101 @@
-# Suhani's AI/ML Portfolio 🚀  
+<h1 align="center">Hi 👋, I'm Suhani</h1>
+<h3 align="center">AI/ML Enthusiast | Data Scientist | BTech CSE '26 | Hackathon Finalist & Winner</h3>
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-View%20Profile-brightgreen)](https://github.com/Suhani7304)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/suhani-807175271)  
-
-## 🌟 About Me  
-
-Hi! I’m **Suhani**, a dynamic third-year B.Tech student in **Computer Science and Engineering** with a passion for **AI**, **ML**, and **Data Science**. With hands-on experience in impactful projects, I’ve participated in **10+ hackathons**, reached the finals in over 7 competitions, and won 2 of them. My goal is to craft innovative solutions for real-world problems using cutting-edge technologies.  
-
----
-
-## 🧠 Skills  
-
-### **Programming & Development**  
-- **Languages**: Python, JavaScript, SQL, Java  
-- **Development**: Flask, HTML, CSS, Streamlit  
-- **Libraries & Tools**: NumPy, Pandas, Scikit-learn, TensorFlow, Matplotlib, Seaborn, PowerBI, Git, GitHub  
-- **Other**: Data Structures, OOP, UI/UX Design (Figma), Data Analysis  
-
-### **Soft Skills**  
-- Leadership & Collaboration  
-- Problem Solving & Debugging  
-- Analytical Thinking & Decision Making  
+<p align="center">
+  <a href="mailto:suhani280504@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/suhani-807175271"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Suhani7304"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🏆 Hackathons & Achievements  
-
-- **Hackathon Wins**:  
-  - *TechVision College Hackathon Winner*: Built AI/ML healthcare solutions.  
-  - *Finalist in 7+ Hackathons*: Demonstrated innovation and problem-solving.  
+### 🧠 About Me
+- 💻 Tech-savvy 3rd-year CSE student at *Kurukshetra University* (SGPA: 9.02)  
+- 🤖 Passionate about AI/ML, Data Science, and solving real-world problems through technology  
+- 🏆 Participated in **10+ hackathons**, finalist in **7+**, and *winner of TechVision Hackathon*  
+- 🌟 Exploring advanced machine learning, NLP, and end-to-end deployment solutions  
 
 ---
 
-## 💼 Projects  
+### 🛠️ Skills & Tools  
 
-### **1. Doct-i: AI Healthcare Platform**  
-A full-stack AI platform enabling smart diagnosis, doctor recommendations, and health support.  
-- **Technologies**: MERN Stack, TensorFlow, Flask, Dialogflow, MongoDB, Firebase  
-- **Highlights**:  
-  - Disease prediction using Random Forest (top 7 diseases with probabilities)  
-  - Skin disease detection using a TensorFlow-based image model  
-  - NLP-based chatbot for symptom assessment (Dialogflow + Flask + Ngrok)  
-  - Smart doctor recommendation using weighted scoring  
-  - BMI-based fitness report generator  
+#### 👨‍💻 Programming Languages  
+<p> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/> 
+</p>  
 
-### **2. Energy Consumption Prediction**  
-A model to predict hourly energy consumption using features like temperature, HVAC usage, and humidity.  
-- Conducted EDA and preprocessing using MinMaxScaler for normalization  
-- Optimized model performance using Grid Search CV  
-- Evaluated accuracy with K-fold Cross-Validation, MSE, and R² Score  
+#### 🧰 Libraries & Frameworks  
+<p> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+</p>  
 
-### **3. E-commerce Product Classification**  
-An NLP-based classification model to categorize products into various categories.  
-- Achieved 97% accuracy using Random Forest and TF-IDF Vectorization  
+#### 🌐 Development & Tools  
+<p> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>
+</p>  
 
-### **4. Other Projects**  
+#### 💾 Databases & Platforms  
+<p> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+</p>  
+
+---
+
+### 🚀 Projects  
+
+#### 🩺 [Doct-i: AI Healthcare Platform](https://github.com/Suhani7304/Doct-i)  
+> Built a full-stack AI-powered healthcare platform with smart diagnosis, real-time doctor recommendation, and health insights  
+> 🔹 Disease prediction using Random Forest  
+> 🔹 Skin disease detection with TensorFlow CNN  
+> 🔹 Real-time doctor recommendation via MongoDB Atlas  
+> 🔹 Symptom assessment chatbot (Dialogflow + Flask)  
+> 🏆 Winner at TechVision Hackathon | Finalist in 5+ competitions  
+
+#### 🧪 E-commerce Product Classification  
+> Built an ML model to classify products into categories using NLP and Random Forest  
+> 🔹 Achieved 97% accuracy with TF-IDF vectorization and feature engineering  
+
+#### 🌫 Energy Consumption Prediction  
+> Developed a model to estimate hourly energy usage based on environmental factors  
+> 🔹 Conducted EDA, normalized data, and optimized with Grid Search CV  
+> 🔹 Evaluated performance with K-fold CV, MSE, and R² Score  
+
+#### 📚 Other Projects  
 - Fake News Detection  
-- Spam Email Detection  
+- Spam Email Classification  
 - House Price Prediction  
-- Iris Flower Classification  
 - Book Recommendation System  
 
 ---
 
-## 🎓 Education  
-
-- **Bachelor of Technology (B.Tech) in Computer Science & Engineering**  
-  University Institute of Engineering and Technology, Kurukshetra University  
-  **SGPA (till 5th Sem)**: 9.02  
-- **AISSCE (PCM)**: 93.6%  
-- **AISSE**: 91.4%  
-
----
-
-## 📜 Certifications  
-
-- **Machine Learning Micro-Course**: Kaggle  
-- **Machine Learning Training Certificate**: Internshala  
+### 🏅 Certifications & Achievements  
+- **Hackathons**: Finalist in **7+**, Winner in **2**  
+- **Certifications**:  
+  - Kaggle Machine Learning Micro-Course  
+  - Internshala 6-Week Machine Learning Training  
+- **Awards**: *TechVision Hackathon Winner*  
 
 ---
 
-## 📫 Contact  
+### 📫 Contact Me  
 
-- 📧 Email: [suhani280504@gmail.com](mailto:suhani280504@gmail.com)  
-- 📞 Phone: +91 9306807304  
-- 📍 Location: Kurukshetra, Haryana  
+📍 Kurukshetra, Haryana  
+📧 Email: [suhani280504@gmail.com](mailto:suhani280504@gmail.com)  
+📞 Phone: +91 9306807304  
 
-Feel free to reach out or connect with me for collaborations or exciting opportunities in AI/ML and Data Science!  
+---
 
+### 💡 Let’s Connect & Build Together!  
+
+I’m always open to collaborations and opportunities in AI/ML, Data Science, and impactful problem-solving. Let’s make a difference together!  
