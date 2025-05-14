@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhani</h1>
-<h3 align="center">AI/ML Enthusiast | Data Scientist | BTech CSE '26 | Hackathon Finalist & Winner</h3>
+<h3 align="center">AI/ML Enthusiast | Data Scientist | BTech CSE '26 | Hackathon Winner & Finalist</h3>
 
 <p align="center">
   <a href="mailto:suhani280504@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/></a>
@@ -11,9 +11,9 @@
 
 ### 🧠 About Me
 - 💻 Tech-savvy 3rd-year CSE student at *Kurukshetra University* (SGPA: 9.02)  
-- 🤖 Passionate about AI/ML, Data Science, and solving real-world problems through technology  
+- 🤖 Passionate about AI/ML, Data Science, and real-world problem-solving  
 - 🏆 Participated in **10+ hackathons**, finalist in **7+**, and *winner of TechVision Hackathon*  
-- 🌟 Exploring advanced machine learning, NLP, and end-to-end deployment solutions  
+- 🌟 Exploring advanced machine learning, NLP, and scalable solutions  
 
 ---
 
@@ -38,16 +38,8 @@
 #### 🌐 Development & Tools  
 <p> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>
-</p>  
-
-#### 💾 Databases & Platforms  
-<p> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </p>  
 
 ---
@@ -55,21 +47,21 @@
 ### 🚀 Projects  
 
 #### 🩺 [Doct-i: AI Healthcare Platform](https://github.com/Suhani7304/Doct-i)  
-> Built a full-stack AI-powered healthcare platform with smart diagnosis, real-time doctor recommendation, and health insights  
+> Built a full-stack AI-powered healthcare platform with smart diagnosis, real-time doctor recommendation, and fitness insights  
 > 🔹 Disease prediction using Random Forest  
-> 🔹 Skin disease detection with TensorFlow CNN  
-> 🔹 Real-time doctor recommendation via MongoDB Atlas  
-> 🔹 Symptom assessment chatbot (Dialogflow + Flask)  
+> 🔹 Skin disease detection via TensorFlow-based image model  
+> 🔹 Smart doctor recommendation with weighted scoring  
+> 🔹 NLP-based symptom assessment chatbot (Dialogflow + Flask)  
 > 🏆 Winner at TechVision Hackathon | Finalist in 5+ competitions  
 
-#### 🧪 E-commerce Product Classification  
-> Built an ML model to classify products into categories using NLP and Random Forest  
-> 🔹 Achieved 97% accuracy with TF-IDF vectorization and feature engineering  
+#### 🛍️ E-commerce Product Classification  
+> Built an ML model to classify products into categories using NLP techniques  
+> 🔹 Achieved 97% accuracy with TF-IDF vectorization and Random Forest  
 
-#### 🌫 Energy Consumption Prediction  
-> Developed a model to estimate hourly energy usage based on environmental factors  
-> 🔹 Conducted EDA, normalized data, and optimized with Grid Search CV  
-> 🔹 Evaluated performance with K-fold CV, MSE, and R² Score  
+#### 🌡️ Energy Consumption Prediction  
+> Developed a model to estimate hourly energy consumption using environmental factors  
+> 🔹 Conducted EDA, normalized data with MinMaxScaler  
+> 🔹 Optimized performance with Grid Search CV  
 
 #### 📚 Other Projects  
 - Fake News Detection  
@@ -96,6 +88,6 @@
 
 ---
 
-### 💡 Let’s Connect & Build Together!  
+### 💡 Let’s Collaborate!  
 
-I’m always open to collaborations and opportunities in AI/ML, Data Science, and impactful problem-solving. Let’s make a difference together!  
+I’m always open to new opportunities in AI/ML, Data Science, and impactful problem-solving. Let’s create something amazing together!  
