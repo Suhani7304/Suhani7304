@@ -87,6 +87,15 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suhani7304&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhani7304&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
 ### 💡 Let’s Collaborate!  
 
 I’m always open to new opportunities in AI/ML, Data Science, and impactful problem-solving. Let’s create something amazing together!  
