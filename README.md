@@ -53,11 +53,11 @@
 > 🔹 NLP-based symptom assessment chatbot (Dialogflow + Flask)  
 > 🏆 Winner at TechVision Hackathon | Finalist in 5+ competitions  
 
-#### 🛍️ E-commerce Product Classification(https://github.com/Suhani7304/E-commerce Product Classification)  
+#### 🛍️ [E-commerce Product Classification](https://github.com/Suhani7304/E-commerce-Product-Classification)  
 > Built an ML model to classify products into categories using NLP techniques  
 > 🔹 Achieved 97% accuracy with TF-IDF vectorization and Random Forest  
 
-#### 🌡️ Energy Consumption Prediction(https://github.com/Suhani7304/Energy Consumption Prediction)  
+#### 🌡️ [Energy Consumption Prediction](https://github.com/Suhani7304/Energy-Consumption-Prediction)  
 > Developed a model to estimate hourly energy consumption using environmental factors  
 > 🔹 Conducted EDA, normalized data with MinMaxScaler  
 > 🔹 Optimized performance with Grid Search CV  
