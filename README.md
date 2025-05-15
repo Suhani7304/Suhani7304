@@ -53,7 +53,7 @@
 > 🔹 NLP-based symptom assessment chatbot (Dialogflow + Flask)  
 > 🏆 Winner at TechVision Hackathon | Finalist in 5+ competitions  
 
-#### 🛍️ [E-commerce Product Classification](https://github.com/Suhani7304/E-commerce-Product-Classification)  
+#### 🛍️ [E-commerce Product Classification](https://github.com/Suhani7304/Ecommerce-Classification)  
 > Built an ML model to classify products into categories using NLP techniques  
 > 🔹 Achieved 97% accuracy with TF-IDF vectorization and Random Forest  
 
